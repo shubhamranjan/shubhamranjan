@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monolith to microservices using dotnet core](https://we-are.bookmyshow.com/monolith-to-microservices-using-dotnet-core-220b057aa1e6?source=rss-a3544ef7de0b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
