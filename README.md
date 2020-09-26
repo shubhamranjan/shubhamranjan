@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Ranjan</h1>
-<h3 align="center">Just another Software Engineer :man_technologist:</h3>
+<h3 align="center">A Software Engineer :man_technologist: from India building stuff for scale</h3>
 
 - 🔭 I’m currently working on : [dotnet-etcd](https://github.com/shubhamranjan/dotnet-etcd)
 
