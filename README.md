@@ -11,7 +11,7 @@
 
 - 💬 Ask me about : **dotnet, docker, kubernetes**
 
-- 📫 How to reach me : **shubham.ranjan1804@gmail.com**
+- 📫 How to reach me : **contact@shubhamranjan.dev**
 
 - ⚡ Fun fact : **The first computer bug was an actual bug. A moth, to be precise. Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth stuck inside Grace Hopper’s Harvard Mark II computer. (The irony that Grace Hopper sounds a lot like grasshopper isn’t lost on me here, either).**
 
