@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on : [dotnet-etcd](https://github.com/shubhamranjan/dotnet-etcd)
 
-- 🌱 I’m currently learning : **rust, flutter**
+- 🌱 I’m currently learning : **swift**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/shubhamranjan?tab=repositories](https://github.com/shubhamranjan?tab=repositories)
 
@@ -17,6 +17,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Monolith to microservices using dotnet core](https://we-are.bookmyshow.com/monolith-to-microservices-using-dotnet-core-220b057aa1e6?source=rss-a3544ef7de0b------2)
+- https://live.paloaltonetworks.com/t5/engineering-blogs/building-a-robust-and-efficient-data-ingestion-pipeline-for/ba-p/572044
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
