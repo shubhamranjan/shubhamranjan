@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on : [https://medium.com/@shubham.ranjan](https://medium.com/@shubham.ranjan)
 
-- 💬 Ask me about : **dotnet, docker, kubernetes**
+- 💬 Ask me about : **dotnet, go, docker, kubernetes**
 
 - 📫 How to reach me : **contact@shubhamranjan.dev**
 
